@@ -1,1 +1,1 @@
-print ('conflicto1 v2')
+print ('conflicto')
