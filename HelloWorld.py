@@ -1,2 +1,2 @@
-print('New Hellogit')
+print('Te amo')
 
