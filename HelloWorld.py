@@ -1,2 +1,2 @@
-print('Te amo')
+print('Te am')
 
